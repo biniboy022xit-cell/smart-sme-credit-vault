@@ -40,5 +40,3 @@ The **Smart SME Credit & Asset Vault Engine** evaluates synthetic SME credit tel
 Third-Year Computer Systems Engineering Student  
 University of Zambia (UNZA)  
 * **Email:** handiyamatibeani@gmail.com[cite: 2]
-
-* 
